@@ -1,4 +1,4 @@
-# weatherservice
+# weatherapp
 
 This project is a simple weather application when provided with Latitude and Longitudes returns current weather for the  location.
 
